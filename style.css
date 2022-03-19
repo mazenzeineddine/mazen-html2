@@ -1,0 +1,55 @@
+
+body{
+    background-color: gray;
+}
+
+
+
+
+h1{
+    color: black;
+    position: top center;
+    padding: 30px;
+    padding-left: 600px;
+    
+}
+
+.vertical-menu {
+    width: 500px;
+
+  }
+  
+  .vertical-menu a {
+    background-color:white;
+    color: black;
+    display: block;
+    padding: 30px;
+    text-decoration: none;
+
+  }
+  
+  .vertical-menu a:hover {
+    background-color:blue;
+  }
+  
+  .vertical-menu a.active {
+    background-color:green;
+    color:white;
+  }
+  .text{
+      padding-left: 100px;
+  }
+
+.list{
+padding-left: 200px;
+}
+  footer {
+    text-align: center;
+    padding: 30px;
+    margin: 30px;
+    background-color: rgb(89, 160, 89);
+    
+
+}
+
+
